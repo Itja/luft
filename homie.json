@@ -1,0 +1,11 @@
+{
+    "HOST": "10.10.10.8",
+    "PORT": 1883,
+    "KEEPALIVE": 10,
+    "USERNAME": "",
+    "PASSWORD": "",
+    "CA_CERTS": "",
+    "DEVICE_ID": "air01",
+    "DEVICE_NAME": "Air 01",
+    "TOPIC": "homie"
+}
