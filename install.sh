@@ -1,3 +1,3 @@
 #!/bin/sh
-apt install libgpiod2
-pip install -r requirements.txt
+apt install -y python3 python3-pip libgpiod2
+pip3 install -r requirements.txt
