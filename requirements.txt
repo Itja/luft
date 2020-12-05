@@ -1,0 +1,3 @@
+adafruit-circuitpython-dht~=3.5.1
+homie~=0.4.1
+
