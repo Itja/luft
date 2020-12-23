@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+import sys
+import logging
+logging.basicConfig(level=logging.DEBUG, stream=sys.stderr)
 import time
 import board
 import adafruit_dht
